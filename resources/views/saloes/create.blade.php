@@ -9,6 +9,7 @@
 
                 <div class="col-lg-6 col-10 mx-auto">
                     <form class="custom-form ticket-form mb-5 mb-lg-0" action="{{ route('saloes.store') }}" method="post" role="form">
+                
                         <h2 class="text-center mb-4">Cadastro</h2>
 
                         <script>
